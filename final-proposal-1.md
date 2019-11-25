@@ -1,0 +1,1 @@
+In the last project, I always wanted to study how to write the game snake, but it was very difficult, so I finally gave up. This time with more time, I want to try to write the code for the snake game.
